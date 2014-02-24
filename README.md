@@ -29,7 +29,7 @@ Run the backup script
 
     ruby backup.rb <user>
 
-Where <user> is a user defined in users.yml. If not given, it defaults to a user
+Where "user" is a user defined in users.yml. If not given, it defaults to a user
 called "default".
 
 Use this at your own risk. Backup the db with pgdump on every run just to be
